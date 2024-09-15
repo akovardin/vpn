@@ -1,3 +1,3 @@
 ## VPN это просто
 
-Супер простая реализация базовых принципов VPN. [Описание](http://4gophers.ru/articles/vpn-eto-prosto/)
+Супер простая реализация базовых принципов VPN. [Описание](https://kovardin.ru/articles/go/vpn-eto-prosto/)
